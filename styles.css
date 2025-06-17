@@ -9,9 +9,6 @@ body {
 }
 
 .container {
-    background-image: url('Imagenes/fondo.jpg');
-    background-size: cover;
-    background-position: center;
     border-radius: 10px;
     padding: 20px;
     text-align: center;
@@ -64,7 +61,7 @@ p {
 }
 
 footer {
-    margin: 80px 0;
+    margin: 70px 0;
     text-align: center;
     padding: 5px;
     border-radius: 5px;
@@ -95,4 +92,5 @@ button {
     text-decoration: none;
     color: #052054;
     font-weight: bold;
+    font-size: 18px;
 }
